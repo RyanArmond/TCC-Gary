@@ -260,3 +260,6 @@ latex.out/
 *.nlg
 *.nlo
 *.nls
+
+*.pdf
+*.loa
